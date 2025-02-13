@@ -1,3 +1,3 @@
 🙋‍♀️ Hi, I’m Eugenia <br>
-🌱 I’m currently learning JavaScript <br>
+🌱 JS, TS, Angular, React <br>
 ❤️ Open to communication
